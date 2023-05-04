@@ -1,5 +1,5 @@
 
--  🌱  Python, SQL, Git&GitHub, HTML, CSS, JS, React,Django,Rest Framework, React Native
+-  🌱  Python, Django,Rest Framework, SQL, Git&GitHub, HTML, CSS, JS, React, React Native,
 -  👯  Enthusiastic Full-Stack Developer eager to contribute to team success through hard work, attention to details and excellent organizational skills.
 -  📝  Believes in the importance of learning new things every day. 
 -  ✨  A lifelong learner. 
